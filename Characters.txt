@@ -1,3 +1,4 @@
 woodcutter
 Angel
 Merchant
+axe
