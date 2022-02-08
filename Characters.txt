@@ -2,3 +2,4 @@ woodcutter
 Angel
 Merchant
 axe
+Cindrella
